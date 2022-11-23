@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning web3 development, and deploying scalable apps.
 - 👯 I’m looking to collaborate on Blockchain, ML, 3D webbased frontend projects.
-- 💬 Ask me about AEC Tech, AI, Blockchain, beautifull and user-friendly applications
+- 💬 Ask me about AEC Tech, AI, Blockchain, beautifull and user-friendly React applications
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/barbaravillanova/
 - 😄 Pronouns: She/Her
